@@ -138,7 +138,7 @@ void makelogic(){
 }
 
 int main(){
-    char ch = 'y';
+        char ch = 'y';
     do{
         setup();
         while(!gameover){
